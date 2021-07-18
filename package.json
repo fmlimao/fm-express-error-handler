@@ -1,4 +1,22 @@
 {
+  "name": "fm-express-error-handler",
+  "version": "1.0.0",
+  "description": "Um manipulador de erros para Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmlimao/fm-express-error-handler.git"
+  },
+  "keywords": [],
+  "author": "Leandro Macedo <fmlimao@gmail.com> (http://github.com/fmlimao)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmlimao/fm-express-error-handler/issues"
+  },
+  "homepage": "https://github.com/fmlimao/fm-express-error-handler#readme",
   "dependencies": {
     "fm-json-response": "^1.2.0"
   }
